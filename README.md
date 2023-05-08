@@ -1,8 +1,13 @@
 Pixi.Js Project - Flying Dragon
+
 Technologies used:
-Pixi.Js
+
+Pixi.js
+
 JavaScript
+
 HTML
 
-Soundtrack
+Soundtrack:
+
 https://soundcloud.com/8bitthemes/the-first-night-of-the-journey
