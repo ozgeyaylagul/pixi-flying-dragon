@@ -6,6 +6,8 @@ Pixi.js
 
 JavaScript
 
+Howler.js
+
 HTML
 
 Soundtrack:
